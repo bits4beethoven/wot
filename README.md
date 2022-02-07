@@ -14,8 +14,8 @@ othernode3:linkvalue,othernode4:linkvalue,...
 
 ...
 ```
-First line names the nodes that a present in the web.
-After that, two lines for each node follow. The first list states which node is currently in focus. The second line lists pairs of `key:value`, which are associated with the current node.
+First line names the nodes that are present in the web.
+After that, two lines for each node follow. The first list states which node is currently a `source`. The second line lists pairs of `target:value`, which means that the link between `source` and `target` has the value `value`.
 
 ## Example
 ```
